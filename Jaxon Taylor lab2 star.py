@@ -2,7 +2,7 @@ import turtle
 
 def drawStar(t):
 
- for _ in range(5):
+ for i in range(5):
     t.forward(150)
     t.right(144)
 
